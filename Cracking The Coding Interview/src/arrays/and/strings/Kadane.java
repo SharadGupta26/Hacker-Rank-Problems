@@ -15,6 +15,10 @@ import java.util.Random;
  * This way we can find maximum sum of sub-array in O(n) time See explanation :
  * https://www.youtube.com/watch?v=ohHWQf1HDfU
  * 
+ * View problems
+ * 1) https://www.interviewbit.com/problems/flip/
+ * 2) https://www.interviewbit.com/problems/max-sum-contiguous-subarray/
+ * 
  * @author Sharad gupta
  *
  */
